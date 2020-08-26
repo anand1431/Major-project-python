@@ -1,0 +1,4 @@
+DAY-1:Read about Super-Resolution Convolutional Neural Network (SRCNN) 
+DAY-2:Read about Bicubic Interpolation Techniques 
+DAY-3:Read about tensorflow
+DAY-4:Written Code for Bicubic Interploation
